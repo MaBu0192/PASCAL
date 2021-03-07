@@ -1,0 +1,5 @@
+programm Rabatt (input, output);
+
+begin
+	writeln('Hallo Welt!');
+end
